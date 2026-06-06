@@ -504,3 +504,4 @@ The following pages dive deeper into specific attack vectors and mitigations:
 - [Phoenix Privacy Policy](https://phoenix.acinq.co/privacy) — ACINQ's explanation of Phoenix payment privacy
 - [Voltage - Lightning Network Privacy Explainer](https://voltage.cloud/blog/lightning-network-privacy-explainer)
 - [Lightning Privacy - Introduction](https://lightningprivacy.com/en/introduction)
+- [A centrality analysis of the Lightning Network](https://www.sciencedirect.com/science/article/pii/S0308596123002070) — Telecommunications Policy journal, March 2024, Article: 102696, Volume: Volume 48, Issue 2
